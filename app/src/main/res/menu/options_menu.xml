@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/preferences"
+        android:title="Preferencias"
+        android:icon="@drawable/settings" />
+    <item android:id="@+id/quit"
+        android:title="Quit"
+        android:icon="@drawable/quit_game" />
+</menu>
