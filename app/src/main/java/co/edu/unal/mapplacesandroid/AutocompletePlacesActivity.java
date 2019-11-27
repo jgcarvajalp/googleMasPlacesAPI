@@ -179,7 +179,7 @@ public class AutocompletePlacesActivity extends AppCompatActivity implements OnM
         googlePlaceUrl.append("&radius="+ mRadio);
         googlePlaceUrl.append("&type="+nearbyPlace);
         googlePlaceUrl.append("&sensor=true");
-        googlePlaceUrl.append("&key="+"AIzaSyAI8N6s5nr6QK5t1c6H-82_9RMVS1J9SGM");
+        googlePlaceUrl.append("&key="+"");
 
         Log.d("AutocompletePlacesActivity", "url = "+googlePlaceUrl.toString());
 
